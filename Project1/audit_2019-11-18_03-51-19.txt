@@ -1,0 +1,31 @@
+Results:
+Winners: [Pike,D] [Borg,R] [Foster,D] 
+Votes Received:
+  [Pike,D]: 3
+  [Foster,D]: 2
+  [Deutsch,R]: 0
+  [Borg,R]: 2
+  [Jones,R]: 1
+  [Smith,I]: 1
+Type of Election: OPL
+Number of seats: 3
+Number of ballots cast: 9
+Number of candidates: 6
+
+ALGORITHM:
+Votes Recieved for Party:
+  R: 3
+  D: 5
+  I: 1
+Round 1:
+  Winner: [Pike,D] with the party + D having 5
+  and the candidate getting 3
+
+Round 2:
+  Winner: [Borg,R] with the party + R having 3
+  and the candidate getting 2
+
+Round 3:
+  Winner: [Foster,D] with the party + D having 2
+  and the candidate getting 2
+
