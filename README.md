@@ -1,2 +1,2 @@
-# repo-Team28
-Team 28 (Lee, Patel, Neff, Bhat)
+# CSCI 5801
+Public Repo to hold CSCI 5801 - "Software Engineering I" projects.
