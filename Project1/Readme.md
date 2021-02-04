@@ -1,9 +1,3 @@
-Team# 28:
-Gabriel Lee (gnlee)
-Neil Patel (patel607),
-Ankith Bhat (bhatx050) 
-Philip Neff (neffx080)
-
 How to run Voting System using IntelliJ:
 1. Open Project1 directory in IntelliJ Idea Community Edition
 2. Ensure Project Structure has 'src' and 'testing' folder correctly marked (so Intellij can find the tests).
